@@ -1,0 +1,15 @@
+[
+  {
+    "id":1,
+    "directions":[
+      {
+        "departures":["12:00","13:30"],
+        "stations":[1,2]
+      },
+      {
+        "departures":["13:00","14:30"],
+        "stations":[2,1]
+      } 
+    ]
+  }
+]
