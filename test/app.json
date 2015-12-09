@@ -1,1 +1,9 @@
-{}
+{
+  "id": "_APP_NAME_GOES_HERE_",
+  "screens": [],
+  "jsLibraries": [],
+  "mainScreenId": "",
+  "i18n": {},
+  "silentUpdate": false,
+  "version": 1
+}
