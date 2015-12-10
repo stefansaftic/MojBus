@@ -1,1 +1,1 @@
-{"id":"_APP_NAME_GOES_HERE_","screens":[],"jsLibraries":[{"path":{"name":"TestLib","local":1,"resourceId":"TestLib","url":"/repos/stefansaftic/MojBus/contents/TestLib"}}],"mainScreenId":"","i18n":{},"silentUpdate":false,"version":1}
+{"id":"_APP_NAME_GOES_HERE_","screens":[],"jsLibraries":[{"path":{"name":"TestLib","local":1,"resourceId":"TestLib"}}],"mainScreenId":"","i18n":{},"silentUpdate":false,"version":1}
