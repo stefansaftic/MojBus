@@ -1,9 +1,1 @@
-{
-  "id": "_APP_NAME_GOES_HERE_",
-  "screens": [],
-  "jsLibraries": [],
-  "mainScreenId": "",
-  "i18n": {},
-  "silentUpdate": false,
-  "version": 1
-}
+{"id":"_APP_NAME_GOES_HERE_","screens":[{"deviceType":"phone","path":{"url":"/repos/stefansaftic/MojBus/contents/NewView","name":"NewView","resourceId":"NewView"},"jsPluginPath":{"url":"/repos/stefansaftic/MojBus/contents/NewView_plugin.js","name":"NewView_plugin.js","resourceId":"NewView_plugin.js"}}],"jsLibraries":[],"mainScreenId":"","i18n":{},"silentUpdate":false,"version":1}
