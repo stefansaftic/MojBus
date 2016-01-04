@@ -1,1 +1,1 @@
-{"id":"_APP_NAME_GOES_HERE_","screens":[],"jsLibraries":[],"mainScreenId":"TestView","i18n":{},"silentUpdate":true,"version":1}
+{"id":"_APP_NAME_GOES_HERE_","screens":[{"deviceType":"phone","path":{"url":"/repos/stefansaftic/MojBus/contents/main_screen","name":"main_screen","resourceId":"main_screen"},"jsPluginPath":{"url":"/repos/stefansaftic/MojBus/contents/main_screen_plugin.js","name":"main_screen_plugin.js","resourceId":"main_screen_plugin.js"}}],"jsLibraries":[],"mainScreenId":"TestView","i18n":{},"silentUpdate":true,"version":1}
